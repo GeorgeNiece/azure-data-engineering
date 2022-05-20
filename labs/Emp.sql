@@ -6,4 +6,4 @@ CREATE TABLE dbo.emp
 )
 GO
 
-#CREATE CLUSTERED INDEX IX_emp_ID ON dbo.emp (ID);
+#CREATE CLUSTERED INDEX IX_emp_ID_XX ON dbo.emp (ID);
